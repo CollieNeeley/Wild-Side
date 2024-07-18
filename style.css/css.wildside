@@ -1,0 +1,173 @@
+h1 {
+text-shadow: darkred -0.5rem -0.5rem 0.30rem;
+color: black;
+text-transform: uppercase;
+}
+
+h3 {
+border-top: 1px solid black;
+ font-style: italic;
+}
+body {
+ background-color: lightgrey;
+ margin: 0;
+}
+
+nav a {
+font-style: italic;
+background-color: white;
+padding: 10px;
+text-decoration: underline;
+}
+
+h2 {
+ text-shadow: darkred 0.5rem 0.5rem 0.25rem;
+ text-align: center;
+ text-transform: capilization;
+ text-decoration: none;
+ color: black;
+ }
+
+tfooter {
+ background-color: grey;
+ }
+
+nav::after {
+ content: "";
+ display: block;
+ clear: both;
+ }
+
+nav ul {
+justify-content: space-between;
+list-style-type: none;
+display: flex;
+margin-top: 0;
+padding: 0;
+flex-wrap: wrap;
+}
+
+nav li {
+margin: 2px;
+}
+
+p::first-line{
+color: red;
+}
+
+p {
+line-height: 2rem;
+text-indent: 1.5rem;
+}
+
+a {
+display: block;
+padding: 1rem;
+text-decoration: none;
+color: black;
+}
+
+a.clicked {
+color: darkgreen;
+}
+
+section {
+border-top: 1px solid black;
+}
+
+main {
+border-top: 1px solid black;
+margin: 1rem;
+}
+
+#center-align {
+text-align: center;
+color: red;
+font-weight: bold;
+}
+
+caption {
+color: black;
+font-size: 3rem;
+font-weight: bold;
+padding: 1rem;
+}
+
+table {
+border-collapse: collapse;
+width: 115%;
+margin: auto;
+background-color: grey;
+}
+
+td, th {
+border: collapse;
+border: 2px solid black;
+padding: 8px;
+}
+
+th {
+background-color: grey;
+text-decoration: underline;
+}
+
+table tr:nth-child(even) {
+background-color: red;
+}
+
+#top-div,
+#mid-div,
+#bottom-div {
+width: 200px;
+height: 200px;
+padding-left: 2rem;
+overflow: auto;
+background-color: red;
+margin: 2rem;
+}
+
+#top-span,
+#mid-span,
+#bottom-span {
+font-style: italic;
+font-weight: bold;
+}
+
+div {
+border: .3rem solid black;
+border-radius: 0.5rem;
+border-width 0 0.3rem 0.3rem 0;
+border-right: 0.5rem;
+border-bottom: 0.5rem;
+padding: 1rem;
+margin: 1rem;
+}
+
+div:hover {
+transform: skew(-15deg);
+}
+
+h3 {
+color: black;
+text-shadow: darkred 0.5rem 0.5rem 0.30rem;
+}
+
+h4 {
+padding: 1.5rem;
+margin: 1rem;
+border-radius: 0.5rem;
+color: black;
+border-top: 1rem;
+border-right: 0.3rem;
+border: 2px solid darkred;
+display: flex;
+}
+
+footer {
+font-size: smaller;
+text-decoration: underline;
+text-align: right;
+position: relative;
+border: 1px red;
+background-color: gray
+}
