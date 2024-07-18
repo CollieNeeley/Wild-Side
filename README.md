@@ -16,3 +16,11 @@ My journey in computer science has led me to develop a passion for Front End Web
 
 ## Wild Side Project
 
+| Skill                                 | Project
+|---------------------------------------|----------------------------------------|
+Implementing and focusing on HTML and CSS     | <a href="https://ztsdit.mimo.run/index.html">Wild Side</a>
+
+## Tools 
+
+Using a mobile app called "MIMO" to demonstrate and implement my skill set and developing and designing for a self driven project focusing on HTML and CSS 
+
