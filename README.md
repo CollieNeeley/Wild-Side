@@ -12,7 +12,7 @@ I am a 2024 graduate with a profound interest in technology and a dedication to 
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for Front End Web Development, and i am now eager to transition into this field, specifically aiming to join fellow developers in Front-End and grow my knowledge and be a apart of something big.
+This was my first pratice code with coding HTML, CSS, and JavaScript that I took initative on my own to do, it doesn't look the best but it displays some of the work and knowledge retained through the beggining and even before my collge journey began. My experience in computer science has led me to develop a passion for Front End Web Development, and i am now eager to transition into this field, specifically aiming to join fellow developers in Front-End and grow my knowledge and be a apart of something big.
 
 ## Wild Side Project
 
